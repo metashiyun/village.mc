@@ -1,0 +1,10 @@
+name: Village
+version: '1.0-SNAPSHOT'
+main: org.shiyun.Village
+load: POSTWORLD
+description: Shiyun Works Regions Database
+author: scchan
+website: region.shiyun.org
+commands:
+  prefecture:
+    description: Fetches prefecture region information
